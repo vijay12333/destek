@@ -1,0 +1,72 @@
+.sidee {
+  display: flex;
+  width: 100%;
+
+  .navv {
+    flex: 6;
+
+  }
+
+}
+
+.container {
+  flex: 6;
+  width: 100px;
+  height: 60px;
+  top: 780px;
+  bottom: 400;
+  margin-left: 5;
+  margin-right: 5;
+  margin-top: 33;
+  margin-bottom: 33;
+
+}
+
+
+
+.text11 {
+  display: flex;
+  font-size: 17px;
+  
+  font-weight: bold;
+  color: #999;
+  margin-top: -64px;
+  margin-bottom: -25px;
+  margin-left: 70px;
+  margin-right: 10px;
+
+}
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.App {
+  margin: 20px;
+  max-width: 300px;
+}
+
+pre {
+  line-height: normal;
+}
+.selection{
+  display: flex;
+  font-size: 17px;
+  
+  font-weight: bold;
+  color: #999;
+  margin-top: -64px;
+  margin-bottom: -25px;
+  margin-left: 70px;
+  margin-right: 10px;
+
+}

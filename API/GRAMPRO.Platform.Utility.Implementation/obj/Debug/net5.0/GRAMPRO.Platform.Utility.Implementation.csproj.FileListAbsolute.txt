@@ -1,0 +1,363 @@
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.deps.json
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.runtimeconfig.json
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.runtimeconfig.dev.json
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.exe
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.exe
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.deps.json
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.runtimeconfig.json
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.runtimeconfig.dev.json
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\ref\GRAMPRO.Platform.Utility.Implementation.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.pdb
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.pdb
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.csproj.AssemblyReference.cache
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.AssemblyInfoInputs.cache
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.AssemblyInfo.cs
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.csproj.CoreCompileInputs.cache
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.csproj.CopyComplete
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.Implementation.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.pdb
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.genruntimeconfig.cache
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.deps.json
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.runtimeconfig.json
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.runtimeconfig.dev.json
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.exe
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Azure.Core.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Azure.Identity.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.pdb
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.Implementation.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.pdb
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.deps.json
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.runtimeconfig.json
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.runtimeconfig.dev.json
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.exe
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.deps.json
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.runtimeconfig.json
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.runtimeconfig.dev.json
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.exe
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.exe
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.deps.json
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.runtimeconfig.json
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.runtimeconfig.dev.json
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\ref\GRAMPRO.Platform.Utility.Implementation.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.pdb
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Azure.Identity.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.pdb
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.pdb
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.csproj.AssemblyReference.cache
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.AssemblyInfoInputs.cache
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.AssemblyInfo.cs
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.genruntimeconfig.cache
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.csproj.AssemblyReference.cache
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.AssemblyInfoInputs.cache
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.AssemblyInfo.cs
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.csproj.CoreCompileInputs.cache
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.Implementation.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.pdb
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.deps.json
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.runtimeconfig.json
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.runtimeconfig.dev.json
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.exe
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.deps.json
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.runtimeconfig.json
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.runtimeconfig.dev.json
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.exe
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.exe
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.deps.json
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.runtimeconfig.json
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.runtimeconfig.dev.json
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\ref\GRAMPRO.Platform.Utility.Implementation.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.pdb
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Azure.Core.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Azure.Identity.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.pdb
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.pdb
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.genruntimeconfig.cache
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Data.SqlClient.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.csproj.AssemblyReference.cache
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.AssemblyInfoInputs.cache
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.AssemblyInfo.cs
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.csproj.CoreCompileInputs.cache
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.Implementation.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.pdb
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.deps.json
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.runtimeconfig.json
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.runtimeconfig.dev.json
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.exe
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.deps.json
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.runtimeconfig.json
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.runtimeconfig.dev.json
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.exe
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.exe
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.deps.json
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.runtimeconfig.json
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.runtimeconfig.dev.json
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\ref\GRAMPRO.Platform.Utility.Implementation.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.pdb
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Azure.Core.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Azure.Identity.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Data.SqlClient.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.pdb
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.pdb
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.csproj.CopyComplete
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.genruntimeconfig.cache
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.csproj.AssemblyReference.cache
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.AssemblyInfoInputs.cache
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.AssemblyInfo.cs
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.csproj.CoreCompileInputs.cache
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.pdb
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.deps.json
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.runtimeconfig.json
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.runtimeconfig.dev.json
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.exe
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.deps.json
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.runtimeconfig.json
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.runtimeconfig.dev.json
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.exe
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.exe
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.deps.json
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.runtimeconfig.json
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.runtimeconfig.dev.json
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.pdb
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Azure.Core.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Azure.Identity.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Microsoft.SqlServer.Server.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Memory.Data.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.pdb
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Repository.pdb
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.csproj.CopyComplete
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\refint\GRAMPRO.Platform.Utility.Implementation.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Implementation.genruntimeconfig.cache
+D:\SS\Utility\GRAMPRO.Platform.Utility.Implementation\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.Implementation.dll

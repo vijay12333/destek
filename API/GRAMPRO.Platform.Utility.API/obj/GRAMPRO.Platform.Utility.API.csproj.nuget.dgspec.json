@@ -1,0 +1,382 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.API\\GRAMPRO.Platform.Utility.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.API\\GRAMPRO.Platform.Utility.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.API\\GRAMPRO.Platform.Utility.API.csproj",
+        "projectName": "GRAMPRO.Platform.Utility.API",
+        "projectPath": "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.API\\GRAMPRO.Platform.Utility.API.csproj",
+        "packagesPath": "C:\\Users\\grampro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\grampro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.Implementation\\GRAMPRO.Platform.Utility.Implementation.csproj": {
+                "projectPath": "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.Implementation\\GRAMPRO.Platform.Utility.Implementation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.DAL\\GRAMPRO.Platform.Utility.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.DAL\\GRAMPRO.Platform.Utility.DAL.csproj",
+        "projectName": "GRAMPRO.Platform.Utility.DAL",
+        "projectPath": "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.DAL\\GRAMPRO.Platform.Utility.DAL.csproj",
+        "packagesPath": "C:\\Users\\grampro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\grampro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.Implementation\\GRAMPRO.Platform.Utility.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.Implementation\\GRAMPRO.Platform.Utility.Implementation.csproj",
+        "projectName": "GRAMPRO.Platform.Utility.Implementation",
+        "projectPath": "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.Implementation\\GRAMPRO.Platform.Utility.Implementation.csproj",
+        "packagesPath": "C:\\Users\\grampro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\grampro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.DAL\\GRAMPRO.Platform.Utility.DAL.csproj": {
+                "projectPath": "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.DAL\\GRAMPRO.Platform.Utility.DAL.csproj"
+              },
+              "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.Model\\GRAMPRO.Platform.Utility.Model.csproj": {
+                "projectPath": "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.Model\\GRAMPRO.Platform.Utility.Model.csproj"
+              },
+              "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.Repository\\GRAMPRO.Platform.Utility.Repository.csproj": {
+                "projectPath": "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.Repository\\GRAMPRO.Platform.Utility.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.Model\\GRAMPRO.Platform.Utility.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.Model\\GRAMPRO.Platform.Utility.Model.csproj",
+        "projectName": "GRAMPRO.Platform.Utility.Model",
+        "projectPath": "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.Model\\GRAMPRO.Platform.Utility.Model.csproj",
+        "packagesPath": "C:\\Users\\grampro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\grampro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.Repository\\GRAMPRO.Platform.Utility.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.Repository\\GRAMPRO.Platform.Utility.Repository.csproj",
+        "projectName": "GRAMPRO.Platform.Utility.Repository",
+        "projectPath": "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.Repository\\GRAMPRO.Platform.Utility.Repository.csproj",
+        "packagesPath": "C:\\Users\\grampro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\grampro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.Model\\GRAMPRO.Platform.Utility.Model.csproj": {
+                "projectPath": "C:\\Users\\grampro\\Desktop\\Delete\\Utility\\GRAMPRO.Platform.Utility.Model\\GRAMPRO.Platform.Utility.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

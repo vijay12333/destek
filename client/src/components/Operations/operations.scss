@@ -1,0 +1,46 @@
+.opside {
+    display: flex;
+    width: 100%;
+  
+    .opnav {
+      flex: 6;
+  
+    }
+  
+  }
+  .App {
+    margin: 20px;
+    max-width: 300px;
+  }
+  .App1 {
+    margin-top: -58px;
+    margin-bottom: 10px;
+    margin-left: 350px;
+    margin-right: 10px;
+   
+    max-width: 300px;
+  }
+  .App2{
+    margin-top: -48px;
+    margin-bottom: 10px;
+    margin-left: 700px;
+    margin-right: 10px;
+    
+    max-width: 300px;
+  }
+  
+  pre {
+    line-height: normal;
+  }
+  .selection{
+    display: flex;
+    font-size: 17px;
+    
+    font-weight: bold;
+    color: #999;
+    margin-top: -64px;
+    margin-bottom: -25px;
+    margin-left: 70px;
+    margin-right: 10px;
+  
+  }

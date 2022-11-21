@@ -1,0 +1,103 @@
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.exe
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.deps.json
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.runtimeconfig.json
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.runtimeconfig.dev.json
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\ref\GRAMPRO.Platform.Utility.Model.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.pdb
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.csproj.AssemblyReference.cache
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.AssemblyInfoInputs.cache
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.AssemblyInfo.cs
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.csproj.CoreCompileInputs.cache
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.Model.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.pdb
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.genruntimeconfig.cache
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\working folder\Utilities\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.csproj.CopyComplete
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.csproj.AssemblyReference.cache
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.AssemblyInfoInputs.cache
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.AssemblyInfo.cs
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.csproj.CoreCompileInputs.cache
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.Model.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.pdb
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.exe
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.deps.json
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.runtimeconfig.json
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.runtimeconfig.dev.json
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\ref\GRAMPRO.Platform.Utility.Model.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.pdb
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\grampro\Desktop\REF\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.genruntimeconfig.cache
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.exe
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.deps.json
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.runtimeconfig.json
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.runtimeconfig.dev.json
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\ref\GRAMPRO.Platform.Utility.Model.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.pdb
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.csproj.AssemblyReference.cache
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.AssemblyInfoInputs.cache
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.AssemblyInfo.cs
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.csproj.CoreCompileInputs.cache
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.Model.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.pdb
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.genruntimeconfig.cache
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.exe
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.deps.json
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.runtimeconfig.json
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.runtimeconfig.dev.json
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\ref\GRAMPRO.Platform.Utility.Model.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.pdb
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.csproj.AssemblyReference.cache
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.AssemblyInfoInputs.cache
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.AssemblyInfo.cs
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.csproj.CoreCompileInputs.cache
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.csproj.CopyComplete
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.Model.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.pdb
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.genruntimeconfig.cache
+D:\SS\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.exe
+D:\SS\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.deps.json
+D:\SS\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.runtimeconfig.json
+D:\SS\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.runtimeconfig.dev.json
+D:\SS\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\GRAMPRO.Platform.Utility.Model.pdb
+D:\SS\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Model\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.csproj.AssemblyReference.cache
+D:\SS\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\SS\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.AssemblyInfoInputs.cache
+D:\SS\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.AssemblyInfo.cs
+D:\SS\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.csproj.CoreCompileInputs.cache
+D:\SS\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.csproj.CopyComplete
+D:\SS\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\refint\GRAMPRO.Platform.Utility.Model.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.pdb
+D:\SS\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\GRAMPRO.Platform.Utility.Model.genruntimeconfig.cache
+D:\SS\Utility\GRAMPRO.Platform.Utility.Model\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.Model.dll

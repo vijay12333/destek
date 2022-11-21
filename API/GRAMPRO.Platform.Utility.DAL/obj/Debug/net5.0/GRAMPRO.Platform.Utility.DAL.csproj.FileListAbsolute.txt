@@ -1,0 +1,36 @@
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.deps.json
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.AssemblyReference.cache
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfoInputs.cache
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfo.cs
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.CoreCompileInputs.cache
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+F:\WorkingFolder\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.deps.json
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.AssemblyReference.cache
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfoInputs.cache
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfo.cs
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.CoreCompileInputs.cache
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
+F:\WORKING FOLDER\ASM\ASM FINAL\API_19\API\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\SS\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.deps.json
+D:\SS\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.DAL\bin\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\SS\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.AssemblyReference.cache
+D:\SS\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\SS\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfoInputs.cache
+D:\SS\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.AssemblyInfo.cs
+D:\SS\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.csproj.CoreCompileInputs.cache
+D:\SS\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\refint\GRAMPRO.Platform.Utility.DAL.dll
+D:\SS\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\GRAMPRO.Platform.Utility.DAL.pdb
+D:\SS\Utility\GRAMPRO.Platform.Utility.DAL\obj\Debug\net5.0\ref\GRAMPRO.Platform.Utility.DAL.dll
