@@ -6,8 +6,8 @@ import Navbar from '../navbar/Navbar'
 import Sidebar from '../sidebar/Sidebar'
 import Table from '../../components/table/Table'
 import "./tickets.scss"
-import { FaFilter } from "react-icons/fa";
-import { bgcolor } from '@mui/system'
+// import { FaFilter } from "react-icons/fa";
+// import { bgcolor } from '@mui/system'
 
 
 function Tickets() {

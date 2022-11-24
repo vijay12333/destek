@@ -1,10 +1,10 @@
 
-import React, { useState, useEffect } from "react";
+import React, { useState,  } from "react";
 import basestyle from "../login/Base.module.css";
 import loginstyle from "./Login.module.css";
 import axios from "axios";
-import { useNavigate, NavLink } from "react-router-dom";
-import { Label } from "recharts";
+// import { useNavigate, NavLink } from "react-router-dom";
+// import { Label } from "recharts";
 
 
 function Login() {

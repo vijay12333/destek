@@ -6,9 +6,7 @@ import filter from '../img/filter.png'
 import kebamenu from'../img/kebamenu.png'
 import Sidebar from '../sidebar/Sidebar'
 import Navbar from '../navbar/Navbar'
-function myFunction() {
-   window.replace("https://www.w3schools.com")
- }
+
 function Team() {
   return (
    <div className="sidee">
