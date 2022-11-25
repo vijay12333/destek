@@ -24,7 +24,7 @@ function Team() {
      </div>
      <div>
      <Link to="/teams/addagent" className="link">
-          Create Team
+          Create Teams
         </Link>
      </div>
                 <div className='team-details-container'>
