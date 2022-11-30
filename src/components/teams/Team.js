@@ -19,12 +19,12 @@ function Team() {
         
       <div className='text-team'>Team</div> 
       <Link to="/teams/teammembers" className='text-team-me'>
-         <div >Team Members</div>
+         <div >Team Member</div>
          </Link>
      </div>
      <div>
      <Link to="/teams/addagent" className="link">
-          Create Teams
+          Create Team
         </Link>
      </div>
                 <div className='team-details-container'>
